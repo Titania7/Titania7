@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Titania7 !
 - 👀 I’m interested in AI, cybersecurity and telecommunications.
 - 🌱 I’m currently learning how to use pre-trained models (mostly from openCV) in my school applications.
-- 💞️ I’m looking to collaborate on front and back-end programmation.
+- 💞️ I’m looking to collaborate on application development through front and back-end programming.
 - 📫 How to reach me dehon.tatiana99@gmail.com.
 
 <!---
