@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Titania7 !
-- 👀 I’m interested in ML projects.
-- 🌱 I’m currently in my last year of master in AI engineering.
-- 💞️ I’m looking to collaborate on cross-platform application development using ML techniques.
+- 👀 I’m interested in Agentic AI/CV/LLM/ML projects.
+- 🌱 I’m an AI engineer.
 - 📫 How to reach me : dehon.tatiana99@gmail.com.
 
 <!---
